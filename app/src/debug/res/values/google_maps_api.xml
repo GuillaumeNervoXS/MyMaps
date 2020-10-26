@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=58:55:4F:18:24:0F:3B:76:44:31:FF:4D:D7:96:26:D6:57:AF:52:3D%3Bedu.stanford.gnervo.mymaps
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    edu.stanford.gnervo.mymaps
+
+    SHA-1 certificate fingerprint:
+    58:55:4F:18:24:0F:3B:76:44:31:FF:4D:D7:96:26:D6:57:AF:52:3D
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBrKuYs_aSpIgkznUOVGqV77APM1E0e8ls</string>
+</resources>
